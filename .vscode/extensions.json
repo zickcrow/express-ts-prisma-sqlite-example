@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "prisma.prisma",
+    "mikestead.dotenv",
+    "xabikos.javascriptsnippets",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}

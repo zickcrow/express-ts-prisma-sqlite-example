@@ -1,0 +1,64 @@
+{"level":"info","message":"[server] listening on port http://localhost:8000"}
+{"level":"info","message":"[server] listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 5.630 ms - 14\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 3.367 ms - 150\u001b[0m"}
+{"level":"info","message":"[server] listening on port http://localhost:8000"}
+{"level":"info","message":"[server] listening on port http://localhost:8000"}
+{"level":"info","message":"[server] listening on port http://localhost:8000"}
+{"level":"info","message":"[server] listening on port http://localhost:8000"}
+{"level":"info","message":"[server] listening on port http://localhost:8000"}
+{"level":"info","message":"[server] listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET / \u001b[36m304\u001b[0m 3.511 ms - -\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET / \u001b[36m304\u001b[0m 3.209 ms - -\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET / \u001b[36m304\u001b[0m 3.629 ms - -\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /posts/drafts \u001b[33m404\u001b[0m 2.839 ms - 151\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"Start seeding ..."}
+{"level":"info","message":"Created user with id: 1"}
+{"level":"info","message":"Created user with id: 2"}
+{"level":"info","message":"Created user with id: 3"}
+{"level":"info","message":"Seeding finished."}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET /posts/drafts \u001b[33m404\u001b[0m 3.672 ms - 151\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /posts/feed \u001b[33m404\u001b[0m 1.908 ms - 149\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /posts \u001b[33m404\u001b[0m 0.841 ms - 144\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /posts/1 \u001b[33m404\u001b[0m 0.434 ms - 146\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET /posts/1 \u001b[33m404\u001b[0m 3.587 ms - 146\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET / \u001b[36m304\u001b[0m 3.027 ms - -\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET /posts/1 \u001b[33m404\u001b[0m 15.826 ms - 146\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET /posts/1 \u001b[33m404\u001b[0m 4.825 ms - 146\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET /posts/1 \u001b[33m404\u001b[0m 4.280 ms - 146\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 1.194 ms - 150\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 4.805 ms - 14\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 0.688 ms - 150\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 4.338 ms - 14\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 3.396 ms - 150\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 0.526 ms - 14\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 1.091 ms - 150\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET / \u001b[32m200\u001b[0m 10.838 ms - 53\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 4.471 ms - 150\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET /posts/1 \u001b[32m200\u001b[0m 36.351 ms - 257\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /images/icons/gear.png \u001b[33m404\u001b[0m 3.033 ms - 160\u001b[0m"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"[server] 🚀 listening on port http://localhost:8000"}
+{"level":"info","message":"\u001b[0mGET /posts/1 \u001b[36m304\u001b[0m 63.512 ms - -\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /images/icons/gear.png \u001b[33m404\u001b[0m 5.560 ms - 160\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /posts/feed \u001b[32m200\u001b[0m 4.851 ms - 828\u001b[0m"}
+{"level":"info","message":"\u001b[0mGET /images/icons/gear.png \u001b[33m404\u001b[0m 0.868 ms - 160\u001b[0m"}
